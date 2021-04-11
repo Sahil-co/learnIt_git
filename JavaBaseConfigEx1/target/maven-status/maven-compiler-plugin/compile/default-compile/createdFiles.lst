@@ -1,0 +1,4 @@
+com\cg\model\Student.class
+com\cg\config\AppConfig.class
+com\cg\ui\MainApp.class
+com\cg\model\Address.class
